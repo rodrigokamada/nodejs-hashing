@@ -1,18 +1,18 @@
 {
   "name": "nodejs-hashing",
   "version": "1.0.0",
-  "description": "",
+  "description": "There is a class in the crypto module called Hash that we are going to use in the example.",
+  "homepage": "https://github.com/rodrigokamada/nodejs-hashing#readme",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokamada/nodejs-hashing.git"
   },
-  "keywords": [],
   "bugs": {
     "url": "https://github.com/rodrigokamada/nodejs-hashing/issues"
   },
-  "homepage": "https://github.com/rodrigokamada/nodejs-hashing#readme",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js"
