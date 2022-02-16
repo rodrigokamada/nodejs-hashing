@@ -5,7 +5,12 @@
   "homepage": "https://github.com/rodrigokamada/nodejs-hashing#readme",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "hash",
+    "hashing",
+    "password",
+    "sha256"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokamada/nodejs-hashing.git"
