@@ -4,10 +4,6 @@
   "description": "",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokamada/nodejs-hashing.git"
@@ -16,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/rodrigokamada/nodejs-hashing/issues"
   },
-  "homepage": "https://github.com/rodrigokamada/nodejs-hashing#readme"
+  "homepage": "https://github.com/rodrigokamada/nodejs-hashing#readme",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
 }
